@@ -1,0 +1,13 @@
+site_name: Cryptoeconomics
+theme:
+  name: 'material'
+extra_css:
+  - extra.css
+
+nav:
+  - Introduction: 'index.md'
+  - Tokenomics:
+    - What is tokenomics?: 'tokenomics/what-is-tokenomics.md'
+    - Token Standards: 
+      - Ethereum (ERC): 'tokenomics/token-standards/erc-token-standards.md'
+      - Tron (TRC): 'tokenomics/token-standards/trc-token-standards.md'

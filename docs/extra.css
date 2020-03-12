@@ -1,0 +1,12 @@
+h1 {
+	color: #000 !important;
+	font-weight: 700 !important;
+}
+
+h2 {
+	font-weight: 600 !important;
+}
+
+.md-header-nav__topic {
+	font-weight: 700 !important;
+}
